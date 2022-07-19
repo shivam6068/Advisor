@@ -6,12 +6,20 @@ help of google places API.
 We have used HTML,CSS,JAVASCRIPT and React Js for the FrontEnd part .
 
 Demo link:https://traveldo.netlify.app/
+
+
 demo-image-1.
 ![Screenshot (46)](https://user-images.githubusercontent.com/56030089/179739392-e581dc70-c6ec-4564-afa7-a2eccff61654.png)
+
+
 demo-image-2.
 ![Screenshot (47)](https://user-images.githubusercontent.com/56030089/179739414-bcee8737-a31a-4d3f-85ce-6ca3a42ca8b6.png)
+
+
 demo-image-3.
 ![Screenshot (48)](https://user-images.githubusercontent.com/56030089/179739435-ab1df102-a326-40f6-b8f9-54f4d8c646fb.png)
+
+
 demo-image-4.
 ![Screenshot (50)](https://user-images.githubusercontent.com/56030089/179739479-494844b1-7ab5-4540-8a1c-ceef6561c6f4.png)
 
