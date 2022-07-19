@@ -1,5 +1,5 @@
 
-# netflix_clone
+# Travel_advisor(traveldo)
 This Project is completely based on the API, we are using the API such as Google Places API and 
 then Google Map API to show the map, this website shows our destination, hotel, and restaurant with the 
 help of google places API.
